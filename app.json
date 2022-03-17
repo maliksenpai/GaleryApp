@@ -1,0 +1,7 @@
+{
+  "name": "GaleryApp",
+  "displayName": "GaleryApp",
+  "expo": {
+    "packagerOpts": { "config": "metro.config.js", "sourceExts": [ "js","jsx","svg","ts","tsx"] }
+  }
+}
